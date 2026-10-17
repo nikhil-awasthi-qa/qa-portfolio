@@ -20,6 +20,7 @@ All projects below are portfolio / assignment work, not paid production experien
 | 4 | ReqRes REST API (Postman) | API test collection and results | [04-api-testing-postman](04-api-testing-postman) |
 | 5 | QA Pilot | Single-file HTML tool built on the Claude API: test case generator and bug hunter with CSV export | [05-qa-pilot](05-qa-pilot) |
 | 6 | Student Admission Form (test design assessment) | Test case design assessment (TE Assessment): test scenarios and cases for a student admission form. Oct 2026 | See live portfolio |
+| 7 | Selenium + Java: SauceDemo login tests | 6 automated JUnit 5 login tests (Maven, Selenium 4). Written, not yet run | [06-selenium-java-saucedemo](06-selenium-java-saucedemo) |
 
 ## Skills
 
