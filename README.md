@@ -1,6 +1,6 @@
-# Nikhil Awasthi | Manual QA Portfolio
+# Nikhil Awasthi | QA Portfolio
 
-Entry-level Manual QA Tester (MCA AI/ML, Amity University 2024). Immediate joiner, open to relocate across India.
+Entry-level QA Tester, manual and automation (MCA AI/ML, Amity University 2024). Immediate joiner, open to relocate across India.
 
 Live portfolio: https://claude.ai/artifact/3vnEYonHwSUsV9CyNX4hQB
 
@@ -14,8 +14,8 @@ All projects below are portfolio / assignment work, not paid production experien
 
 | # | Project | What I did | Folder |
 |---|---------|------------|--------|
-| 1 | Amrutam (Ayurveda platform), Web + Android | Exploratory, functional, negative, validation and UI/UX testing. 44 test cases executed (33 passed), 11 defects reported. Aug 2026 | [01-amrutam-web-android-testing](01-amrutam-web-android-testing) |
-| 2 | OrangeHRM | 47 test cases with full STLC artifacts (test plan, test cases, RTM, defect reports) | [02-orangehrm-testing](02-orangehrm-testing) |
+| 1 | Student Admission Portal: UI + API + Database automation | One small web app tested at three levels with Selenium (Page Object Model), Rest Assured and SQL checks. 28 automated tests, all passing in a local run. Oct 2026 | [admission-test-automation repo](https://github.com/nikhil-awasthi-qa/admission-test-automation) |
+| 2 | Amrutam (Ayurveda platform), Web + Android | Exploratory, functional, negative, validation and UI/UX testing. 44 test cases executed (33 passed), 11 defects reported. Aug 2026 | [01-amrutam-web-android-testing](01-amrutam-web-android-testing) |
 | 3 | InterviewGod.ai | 21 test cases, 13 defects logged | [03-interviewgod-ai-testing](03-interviewgod-ai-testing) |
 | 4 | ReqRes REST API (Postman) | API test collection and results | [04-api-testing-postman](04-api-testing-postman) |
 | 5 | QA Pilot | Single-file HTML tool built on the Claude API: test case generator and bug hunter with CSV export | [05-qa-pilot](05-qa-pilot) |
@@ -24,8 +24,8 @@ All projects below are portfolio / assignment work, not paid production experien
 
 ## Skills
 
-Manual testing, STLC, test case design, bug lifecycle and defect reporting, Postman API testing, SQL basics, JIRA. Completed Java + Selenium WebDriver training (Internshala, Oct 2026).
+Manual testing, STLC, test case design, bug lifecycle and defect reporting, Postman API testing, SQL, JIRA. Automation with Java, Selenium WebDriver, Rest Assured, JUnit 5 and Maven.
 
 ## Contact
 
-Nikhil Awasthi | Lucknow, Uttar Pradesh | nikhillawasthi9@gmail.com
+Nikhil Awasthi | Bengaluru, Karnataka | nikhillawasthi9@gmail.com
